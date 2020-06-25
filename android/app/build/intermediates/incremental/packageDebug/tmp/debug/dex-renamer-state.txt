@@ -1,0 +1,4 @@
+#Thu Jun 25 12:37:32 IDT 2020
+base.0=/Users/amitdanon/Desktop/practiceReactNative/task copy/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
